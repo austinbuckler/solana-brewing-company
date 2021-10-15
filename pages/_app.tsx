@@ -1,7 +1,12 @@
 import '../styles/globals.css'
 import type { AppProps } from 'next/app'
+import { WalletProvider } from '../modules/web3/providers/wallet'
 
 function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+  return (
+    <WalletProvider>
+      <Component {...pageProps} />
+    </WalletProvider>
+  )
 }
 export default MyApp

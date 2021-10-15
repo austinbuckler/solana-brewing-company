@@ -1,0 +1,35 @@
+{
+    "blocks": [
+        {
+            "text": "Welcome to the Solana Brewing company, we are here to load your wallets with fresh beer from the best brewmasters the metaverse has to offer.",
+            "asset": "hop"
+        },
+        {
+            "text": "We are making this project out of a passion we have for beer and the community that comes with  it. As beer lovers we know that nothing brings people together quite like an ice cold brew!",
+            "asset": "hop",
+            "dir": "rtl",
+            "bg": "#FFCE22"
+        },
+        {
+            "text": "The art is reminiscent of your everyday microbrew, and with each beer having a unique combination of our eight attributes, everyone should have their own special brew to share with their friends!",
+            "asset": "scooby_snacks"
+        },
+        {
+            "text": "Our main goal for the project is to build a strong community. Post-mint we intend to take the Solana Brewing name IRL and collaborate with local breweries,while educating beer lovers on the power of NFTs. ",
+            "asset": "tipsy_bunny",
+            "dir": "rtl",
+            "bg": "#FFCE22"
+        },
+        {
+            "text": "When minting is complete, we intend to get our beers listed on all marketplaces (DE, ME, SA) and use the royalties as well as a portion of proceeds from minting to sweep the floors and build a treasury. We intend to reward our holders with giveaways, community made derivatives and first dibs on minting of our future generations.",
+            "asset": "thuggweiser"
+        }
+    ],
+    "faq": [
+        ["", ""]
+    ],
+    "links": [
+        ["discord", ""],
+        ["twitter", ""]
+    ]
+}
