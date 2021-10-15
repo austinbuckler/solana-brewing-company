@@ -38,7 +38,6 @@ export function Block({ text, asset, dir = 'ltr', bg }: BlockProps) {
             .content {
                 display: flex;
                 align-items: center;
-                font-family: monospace;
                 font-size: 1.3rem;
                 color: #fff;
                 text-shadow: 0 1px 0.1rem rgba(0, 0, 0, 0.35);

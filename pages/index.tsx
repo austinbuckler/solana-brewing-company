@@ -8,7 +8,6 @@ import { SBC } from '../sbc'
 
 const sbc = solanaBrewingCompany as SBC
 
-
 const Home: NextPage = () => {
   return (
     <div className='bg'>
@@ -28,8 +27,6 @@ const Home: NextPage = () => {
             border: 'none',
             color: '#000',
             fontSize: '1.5rem',
-            fontWeight: 'bold',
-            fontFamily: 'monospace',
             padding: '0.5rem 1rem',
             top: '1rem',
             right: '1rem',
@@ -47,6 +44,23 @@ const Home: NextPage = () => {
             />
           )
         })}
+        <section
+          style={{
+            width: '100%',
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            height: '50vh'
+          }}
+        >
+          <Image
+            className='mint-btn'
+            src={'/mint-button.png'}
+            width={795}
+            height={389}
+            alt='Mint your NFT'
+          />
+        </section>
       </main>
       <style jsx global>
         {`
@@ -55,6 +69,9 @@ const Home: NextPage = () => {
           }
           body {
             background-color: var(--primary);
+          }
+          .mint-btn {
+            cursor: pointer;
           }
         `}
       </style>
