@@ -26,10 +26,21 @@
         }
     ],
     "faq": [
-        ["", ""]
+        ["What is the total supply of the SBC Beers?", "While there will be a second generation, the total supply of Gen. 1 will be 4040"],
+        ["Where can I speak to the team?", "You can find the link to our discord on the top right of the homepage or Twitter bio or you can contact the creator directly on Twitter: @jobinism"],
+        ["Where can I purchase these after mint?", "After mint we plan to submit to Digital Eyes, Solanart and MagicEden"],
+        ["Do I need to refresh the minting page?", "No. After your mint loads, you will be able to be able to continue minting without refreshing! The only thing that should be refreshing is our beer."],
+        ["What can I do with my beer?", "While we continue to look into interesting and fun utilities, we know you’ll enjoy having these babies in your wallet. Your beer will also grant you entry into the Bar Stool DAO."],
+        ["What is the cost to mint?", "The minting will cost 0.40 $SOL"],
+        ["What happens with the royalties?", "With the royalties we intend to sweep the floor of secondary marketplaces to build up our treasury, keep the floor balancedand do giveaways. Thus giving us ample opportunity to reward loyal members."],
+        ["Why should I join this community?", "If you’re looking to join the SBC family you should know you’re joining a community run by a team who wants to connect people through a love of art and beer. We have plans for future releases, derivative airdrops,  special hodler only airdrops, giveaways, contests, collabs and more. Most importantly, we want you!"]
     ],
     "links": [
-        ["discord", ""],
-        ["twitter", ""]
+        ["discord", "https://discord.gg/eHmMWAfnhn"],
+        ["twitter", "www.twitter.com/solanabrewing"],
+        ["jobinism", "www.twitter.com/jobinism"],
+        ["digital_eyes", "https://digitaleyes.market/"],
+        ["sonalart", "solanart.io"],
+        ["magic_eden", "magiceden.io"]
     ]
 }
